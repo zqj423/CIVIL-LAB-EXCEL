@@ -1,1 +1,4 @@
 This is V0.4
+The ExcelDNA files are supporting files for real time tool-tips. Please choose the right version of your office (or copy both)
+As this version was developed with old generation of excel, If error happens you can open developer>Visual Basic> Tools> References to unclick the ones shows 
+"[missing] xxx". New version will fix the problem. 
